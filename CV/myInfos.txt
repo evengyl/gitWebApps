@@ -7,10 +7,10 @@
 /public/bundles/
 /var/
 /vendor/
-###< symfony/framework-bundle ###
+###< symfony/framework-bundledzd ###
 
 ###> symfony/phpunit-bridge ###
-.phpunit
+.phpunitzdzdz
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
@@ -23,5 +23,9 @@
 qnbdvjkzsj, egipk,g k
 zreg ikorgjer
 g jeiogj er
-igoj eigr jerg jeriçgoj eigrrgj qe
-ikorgjeriQ?NGJPlzergh
+igoj eigr jdzdrg jeriçgoja
+zd
+azdµaz
+znfipzenf
+ikpzenfikpznfipnzef
+nef,d
